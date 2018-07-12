@@ -95,7 +95,7 @@ Open your Terminal and enter:
 
 For Linux:
 
-	wget https://github.com/jvfiel/bench-v9/master/playbooks/install.py
+	wget https://raw.githubusercontent.com/jvfiel/bench-v9/master/playbooks/install.py
 
 For Mac OSX:
 
